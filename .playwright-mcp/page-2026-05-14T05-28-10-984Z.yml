@@ -1,0 +1,1151 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - link "CSDN首页" [ref=e10] [cursor=pointer]:
+      - /url: https://www.csdn.net/
+      - img "CSDN首页" [ref=e11]
+    - generic [ref=e14]:
+      - textbox "R语言数据分析案例" [ref=e1145]
+      - button "搜索" [ref=e17] [cursor=pointer]:
+        - generic [ref=e19]: 搜索
+      - paragraph [ref=e20] [cursor=pointer]:
+        - generic [ref=e21]: AI 搜索
+    - generic [ref=e23]:
+      - generic [ref=e25] [cursor=pointer]: 登录
+      - link "新用户会员0.5元/天" [ref=e40] [cursor=pointer]:
+        - /url: https://mall.csdn.net/vip?utm_source=vip_toolbarhyzx_hy
+      - link "消息" [ref=e43] [cursor=pointer]:
+        - /url: https://i.csdn.net/#/msg/index
+        - generic [ref=e44]: 消息
+      - link "创作" [ref=e47] [cursor=pointer]:
+        - /url: https://mp.csdn.net/edit
+  - generic [ref=e52]:
+    - complementary:
+      - generic:
+        - link "CSDN首页" [ref=e55] [cursor=pointer]:
+          - /url: https://www.csdn.net/
+          - img "CSDN首页" [ref=e56]
+        - generic [ref=e57]:
+          - generic:
+            - generic:
+              - generic [ref=e58] [cursor=pointer]:
+                - link "首页":
+                  - /url: https://www.csdn.net
+                  - generic:
+                    - img [ref=e60]
+                    - generic: 首页
+              - generic [ref=e61] [cursor=pointer]:
+                - link "博客":
+                  - /url: https://blog.csdn.net
+                  - generic:
+                    - img [ref=e63]
+                    - generic: 博客
+              - generic [ref=e64] [cursor=pointer]:
+                - link "下载":
+                  - /url: https://download.csdn.net
+                  - generic:
+                    - img [ref=e66]
+                    - generic: 下载
+              - generic [ref=e67] [cursor=pointer]:
+                - link "学习":
+                  - /url: https://edu.csdn.net?utm_source=zhuzhantoolbar
+                  - generic:
+                    - img [ref=e69]
+                    - generic: 学习
+              - generic [ref=e70] [cursor=pointer]:
+                - link "社区":
+                  - /url: https://devpress.csdn.net/
+                  - generic:
+                    - img [ref=e72]
+                    - generic: 社区
+          - generic:
+            - generic:
+              - generic [ref=e73] [cursor=pointer]:
+                - link "模型市场":
+                  - /url: https://taotoken.net?utm_source=tt_csdn_home_leftbar
+                  - generic:
+                    - img [ref=e75]
+                    - generic: 模型市场
+              - generic [ref=e77] [cursor=pointer]:
+                - link "AI搜索":
+                  - /url: https://ai.csdn.net/chat?utm_source=cknow_pc_homeleft
+                  - generic:
+                    - img [ref=e79]
+                    - generic: AI搜索
+              - generic [ref=e80] [cursor=pointer]:
+                - link "AtomGit":
+                  - /url: https://link.csdn.net?target=https%3A%2F%2Fgitcode.com%3Futm_source%3Dcsdn_toolbar
+                  - generic:
+                    - img [ref=e82]
+                    - generic: AtomGit
+              - generic [ref=e83] [cursor=pointer]:
+                - link "InsCode":
+                  - /url: https://inscode.net?utm_source=csdn_home_bar
+                  - generic:
+                    - img [ref=e85]
+                    - generic: InsCode
+              - generic [ref=e86] [cursor=pointer]:
+                - link "技术会议":
+                  - /url: https://summit.csdn.net/
+                  - generic:
+                    - img [ref=e88]
+                    - generic: 技术会议
+          - generic:
+            - generic:
+              - generic [ref=e89] [cursor=pointer]:
+                - link "订阅":
+                  - /url: https://www.csdn.net/i/purchased_new
+                  - generic:
+                    - img [ref=e91]
+                    - generic: 订阅
+              - generic [ref=e92] [cursor=pointer]:
+                - link "关注":
+                  - /url: https://www.csdn.net/i/follow
+                  - generic:
+                    - img [ref=e94]
+                    - generic: 关注
+              - generic [ref=e95] [cursor=pointer]:
+                - link "收藏":
+                  - /url: https://www.csdn.net/i/collections
+                  - generic:
+                    - img [ref=e97]
+                    - generic: 收藏
+              - generic [ref=e98] [cursor=pointer]:
+                - link "历史":
+                  - /url: https://www.csdn.net/i/history
+                  - generic:
+                    - img [ref=e100]
+                    - generic: 历史
+              - generic [ref=e101] [cursor=pointer]:
+                - link "会员中心":
+                  - /url: https://mall.csdn.net/vip?utm_source=vip_toolbarhyzx_hy
+                  - generic:
+                    - img [ref=e103]
+                    - generic: 会员中心
+              - generic [ref=e104] [cursor=pointer]:
+                - link "创作中心":
+                  - /url: https://mp.csdn.net/
+                  - generic:
+                    - img [ref=e106]
+                    - generic: 创作中心
+              - generic [ref=e107] [cursor=pointer]:
+                - link "我的算力":
+                  - /url: https://ai.csdn.net/workbench/wallet?utm_source=xtai_slb_dhl
+                  - generic:
+                    - img [ref=e109]
+                    - generic: 我的算力
+          - generic [ref=e111]:
+            - generic [ref=e112]:
+              - generic [ref=e113]: 联系我们
+              - generic [ref=e114]: "工作时间: 8:30 - 22:00"
+              - generic [ref=e115]: "客服电话: 400-660-0108"
+              - generic [ref=e116]:
+                - link "kefu@csdn.net" [ref=e117] [cursor=pointer]:
+                  - /url: mailto:webmaster@csdn.net
+                - link "在线客服" [ref=e118] [cursor=pointer]:
+                  - /url: https://csdn.s2.udesk.cn/im_client/?web_plugin_id=29181
+            - list [ref=e119]:
+              - listitem [ref=e120]:
+                - link "关于我们" [ref=e121] [cursor=pointer]:
+                  - /url: //www.csdn.net/company/index.html#about
+              - listitem [ref=e122]:
+                - link "招贤纳士" [ref=e123] [cursor=pointer]:
+                  - /url: //www.csdn.net/company/index.html#recruit
+              - listitem [ref=e124]:
+                - link "商务合作" [ref=e125] [cursor=pointer]:
+                  - /url: https://fsc-p05.txscrm.com/T8PN8SFII7W
+              - listitem [ref=e126]:
+                - link "寻求报道" [ref=e127] [cursor=pointer]:
+                  - /url: //marketing.csdn.net/questions/Q2202181748074189855
+            - list [ref=e128]:
+              - listitem [ref=e129]: 友情链接
+              - listitem [ref=e130]:
+                - link "视觉中国" [ref=e131] [cursor=pointer]:
+                  - /url: https://www.vcg.com
+              - listitem [ref=e132]:
+                - link "500px" [ref=e133] [cursor=pointer]:
+                  - /url: https://500px.com
+              - listitem [ref=e134]:
+                - link "直聘网" [ref=e135] [cursor=pointer]:
+                  - /url: https://www.zhipin.com
+              - listitem [ref=e136]:
+                - link "优设网" [ref=e137] [cursor=pointer]:
+                  - /url: https://www.uisdc.com
+              - listitem [ref=e138]:
+                - link "CSDN文库" [ref=e139] [cursor=pointer]:
+                  - /url: https://wenku.csdn.net
+              - listitem [ref=e140]:
+                - link "CSDN下载" [ref=e141] [cursor=pointer]:
+                  - /url: https://download.csdn.net
+              - listitem [ref=e142]:
+                - link "CSDN问答" [ref=e143] [cursor=pointer]:
+                  - /url: https://ask.csdn.net
+              - listitem
+              - listitem
+              - listitem [ref=e144]:
+                - link "京ICP备19004658号" [ref=e145] [cursor=pointer]:
+                  - /url: http://beian.miit.gov.cn/publish/query/indexFirst.action
+              - listitem [ref=e146]:
+                - link "经营性网站备案信息" [ref=e147] [cursor=pointer]:
+                  - /url: https://csdnimg.cn/cdn/content-toolbar/csdn-ICP.png
+              - listitem [ref=e148]:
+                - link "公安备案号11010502030143" [ref=e149] [cursor=pointer]:
+                  - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502030143
+              - listitem [ref=e150]:
+                - link "营业执照" [ref=e151] [cursor=pointer]:
+                  - /url: https://img-home.csdnimg.cn/images/20250103023201.png
+              - listitem [ref=e152]:
+                - link "北京互联网违法和不良信息举报中心" [ref=e153] [cursor=pointer]:
+                  - /url: http://www.bjjubao.org.cn
+              - listitem [ref=e154]:
+                - link "家长监护" [ref=e155] [cursor=pointer]:
+                  - /url: https://download.csdn.net/tutelage/home
+              - listitem [ref=e156]:
+                - link "中国互联网举报中心" [ref=e157] [cursor=pointer]:
+                  - /url: https://www.12377.cn
+              - listitem [ref=e158]:
+                - link "网络110报警服务" [ref=e159] [cursor=pointer]:
+                  - /url: https://cyberpolice.mps.gov.cn
+              - listitem [ref=e160]:
+                - link "Chrome商店下载" [ref=e161] [cursor=pointer]:
+                  - /url: https://chrome.google.com/webstore/detail/csdn%E5%BC%80%E5%8F%91%E8%80%85%E5%8A%A9%E6%89%8B/kfkdboecolemdjodhmhmcibjocfopejo?hl=zh-CN
+              - listitem [ref=e162]:
+                - link "账号管理规范" [ref=e163] [cursor=pointer]:
+                  - /url: https://blog.csdn.net/blogdevteam/article/details/126135357
+              - listitem [ref=e164]:
+                - link "版权与免责声明" [ref=e165] [cursor=pointer]:
+                  - /url: https://www.csdn.net/company/index.html#statement
+              - listitem [ref=e166]:
+                - link "版权申诉" [ref=e167] [cursor=pointer]:
+                  - /url: https://blog.csdn.net/blogdevteam/article/details/90369522
+              - listitem [ref=e168]:
+                - link "出版物许可证" [ref=e169] [cursor=pointer]:
+                  - /url: https://img-home.csdnimg.cn/images/20250103023206.png
+              - listitem [ref=e170]: ©1999-2025北京创新乐知网络技术有限公司
+    - main [ref=e172]:
+      - generic [ref=e174]:
+        - generic [ref=e179]:
+          - img [ref=e1143] [cursor=pointer]
+          - list [ref=e181]:
+            - listitem [ref=e182]:
+              - paragraph [ref=e183] [cursor=pointer]: 全部
+            - listitem [ref=e184]:
+              - paragraph [ref=e185] [cursor=pointer]: 资讯
+            - listitem [ref=e186]:
+              - paragraph [ref=e187] [cursor=pointer]: OpenClaw
+            - listitem [ref=e188]:
+              - paragraph [ref=e189] [cursor=pointer]: DeepSeek
+            - listitem [ref=e190]:
+              - paragraph [ref=e191] [cursor=pointer]: MCP
+            - listitem [ref=e192]:
+              - paragraph [ref=e193] [cursor=pointer]: 运维
+            - listitem [ref=e194]:
+              - paragraph [ref=e195] [cursor=pointer]: 操作系统
+            - listitem [ref=e196]:
+              - paragraph [ref=e197] [cursor=pointer]: 人工智能
+            - listitem [ref=e198]:
+              - paragraph [ref=e199] [cursor=pointer]: Java
+            - listitem [ref=e200]:
+              - paragraph [ref=e201] [cursor=pointer]: C++
+            - listitem [ref=e202]:
+              - paragraph [ref=e203] [cursor=pointer]: Python
+            - listitem [ref=e204]:
+              - paragraph [ref=e205] [cursor=pointer]: 数据结构与算法
+            - listitem [ref=e206]:
+              - paragraph [ref=e207] [cursor=pointer]: 前端
+            - listitem [ref=e208]:
+              - paragraph [ref=e209] [cursor=pointer]: 后端
+            - listitem [ref=e211]:
+              - link "HarmonyOS" [ref=e212] [cursor=pointer]:
+                - /url: https://harmonyosdev.csdn.net/
+            - listitem [ref=e213]:
+              - link "AI开发者构建专区" [ref=e214] [cursor=pointer]:
+                - /url: https://labs.csdn.net
+        - generic [ref=e216]:
+          - generic [ref=e217]:
+            - generic [ref=e221]:
+              - iframe [ref=e222]:
+                - generic [ref=f3e7]: 广告
+              - img
+            - generic [ref=e223]:
+              - generic [ref=e224]:
+                - generic [ref=e225]:
+                  - generic [ref=e226]: 资讯头条
+                  - paragraph [ref=e227] [cursor=pointer]:
+                    - text: 更多资讯
+                    - generic [ref=e228]: 
+                - generic [ref=e229]:
+                  - link "“10周的工作量，AI只用4天！”Anthropic发布会全程实录：你引以为傲的复杂工程，在模型眼里只是个玩具" [ref=e230] [cursor=pointer]:
+                    - /url: https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/161027655
+                    - paragraph [ref=e232]:
+                      - generic [ref=e233]: “10周的工作量，AI只用4天！”Anthropic发布会全程实录：你引以为傲的复杂工程，在模型眼里只是个玩具
+                  - link "390万元起！宇树发布GD01载人变形机甲；李想：理想做芯片不为炫技烧钱；DeepSeek回应聊天记录搜索 | 极客头条" [ref=e234] [cursor=pointer]:
+                    - /url: https://blog.csdn.net/weixin_39786569/article/details/161042347
+                    - paragraph [ref=e236]:
+                      - generic [ref=e237]: 390万元起！宇树发布GD01载人变形机甲；李想：理想做芯片不为炫技烧钱；DeepSeek回应聊天记录搜索 | 极客头条
+                  - link "“飞行汽车没来，但Win32还活着”！微软CTO亲口承认：Win11还在靠90年代「祖传代码」撑着" [ref=e238] [cursor=pointer]:
+                    - /url: https://blog.csdn.net/csdnnews/article/details/161027679
+                    - paragraph [ref=e240]:
+                      - generic [ref=e241]: “飞行汽车没来，但Win32还活着”！微软CTO亲口承认：Win11还在靠90年代「祖传代码」撑着
+                  - generic [ref=e244] [cursor=pointer]:
+                    - iframe [ref=e245]:
+                      - generic [ref=f4e7]: 广告
+                    - img
+                - generic [ref=e246]:
+                  - link "AI 都会写代码了，我们还需要一门国产编程语言吗？" [ref=e247] [cursor=pointer]:
+                    - /url: https://blog.csdn.net/csdnnews/article/details/161021128
+                    - generic [ref=e249]: AI 都会写代码了，我们还需要一门国产编程语言吗？
+                  - link "算力利用率超90%：昇腾NPU算力切分技术深度解析" [ref=e250] [cursor=pointer]:
+                    - /url: https://blog.csdn.net/csdnnews/article/details/161042913
+                    - generic [ref=e252]: 算力利用率超90%：昇腾NPU算力切分技术深度解析
+                  - link "“氛围编程让一切看起来很廉价，我要回归手写编码了！”" [ref=e253] [cursor=pointer]:
+                    - /url: https://blog.csdn.net/csdnnews/article/details/161027674
+                    - generic [ref=e255]: “氛围编程让一切看起来很廉价，我要回归手写编码了！”
+                  - link "63岁黄仁勋再添博士头衔、英特尔CEO为其披袍，最新演讲刷屏：人类编写软件、计算机执行指令的范式已终结！" [ref=e256] [cursor=pointer]:
+                    - /url: https://blog.csdn.net/csdnnews/article/details/160995215
+                    - generic [ref=e258]: 63岁黄仁勋再添博士头衔、英特尔CEO为其披袍，最新演讲刷屏：人类编写软件、计算机执行指令的范式已终结！
+                  - link "Python、R双雄崛起，MATLAB正在退场？TIOBE 5 月榜单发布！" [ref=e259] [cursor=pointer]:
+                    - /url: https://blog.csdn.net/csdnnews/article/details/160995201
+                    - generic [ref=e261]: Python、R双雄崛起，MATLAB正在退场？TIOBE 5 月榜单发布！
+                  - link "360宣布向全体员工每人发放1亿Token；“微信状态可看访客记录”上热搜，腾讯客服回应；Linux内核首个AI生成驱动诞生 | 极客头条" [ref=e262] [cursor=pointer]:
+                    - /url: https://blog.csdn.net/weixin_39786569/article/details/161015633
+                    - generic [ref=e264]: 360宣布向全体员工每人发放1亿Token；“微信状态可看访客记录”上热搜，腾讯客服回应；Linux内核首个AI生成驱动诞生 | 极客头条
+              - generic [ref=e265]:
+                - generic [ref=e266]:
+                  - generic [ref=e267]: 开源项目
+                  - link "更多开源项目 " [ref=e268] [cursor=pointer]:
+                    - /url: https://www.csdn.net/opensource
+                    - text: 更多开源项目
+                    - generic [ref=e269]: 
+                - generic [ref=e271]:
+                  - generic [ref=e272]:
+                    - text:  
+                    - generic [ref=e273]:
+                      - link "AtomCode：开源高效代码编辑器，助力开发者提升编程效率 Rust 查看详情" [ref=e274] [cursor=pointer]:
+                        - /url: https://gitcode.com/atomgit_atomcode/atomcode?utm_source=csdn-index-opensource&isLogin=1
+                        - generic [ref=e276]:
+                          - paragraph [ref=e277]: AtomCode：开源高效代码编辑器，助力开发者提升编程效率
+                          - generic [ref=e278]:
+                            - paragraph [ref=e280]:
+                              - generic [ref=e282]: Rust
+                            - paragraph [ref=e283]: 查看详情
+                      - link "DeepSeek-V4-Pro开源AI大模型，多模态+高效推理，赋能开发者AI应用开发 文本生成 查看详情" [ref=e284] [cursor=pointer]:
+                        - /url: https://gitcode.com/hf_mirrors/deepseek-ai/DeepSeek-V4-Pro?utm_source=csdn-index-opensource&isLogin=1
+                        - generic [ref=e286]:
+                          - paragraph [ref=e287]: DeepSeek-V4-Pro开源AI大模型，多模态+高效推理，赋能开发者AI应用开发
+                          - generic [ref=e288]:
+                            - paragraph [ref=e290]:
+                              - generic [ref=e292]: 文本生成
+                            - paragraph [ref=e293]: 查看详情
+                      - link "GLM-5.1开源语言模型，助您高效开发AI应用与研究 文本生成 查看详情" [ref=e294] [cursor=pointer]:
+                        - /url: https://gitcode.com/zai-org/GLM-5.1?utm_source=csdn-index-opensource&isLogin=1
+                        - generic [ref=e296]:
+                          - paragraph [ref=e297]: GLM-5.1开源语言模型，助您高效开发AI应用与研究
+                          - generic [ref=e298]:
+                            - paragraph [ref=e300]:
+                              - generic [ref=e302]: 文本生成
+                            - paragraph [ref=e303]: 查看详情
+                      - link "MiniMax-M2.7开源大模型，助力高效AI应用开发 文本生成 查看详情" [ref=e304] [cursor=pointer]:
+                        - /url: https://gitcode.com/MiniMax-AI/MiniMax-M2.7?utm_source=csdn-index-opensource&isLogin=1
+                        - generic [ref=e306]:
+                          - paragraph [ref=e307]: MiniMax-M2.7开源大模型，助力高效AI应用开发
+                          - generic [ref=e308]:
+                            - paragraph [ref=e310]:
+                              - generic [ref=e312]: 文本生成
+                            - paragraph [ref=e313]: 查看详情
+                    - generic [ref=e314]:
+                      - link "OrcaSlicer-BambuLab：开源3D打印切片工具，适配Bambu设备提升打印效果 C++ 查看详情" [ref=e315] [cursor=pointer]:
+                        - /url: https://gitcode.com/gh_mirrors/or/OrcaSlicer-bambulab?utm_source=csdn-index-opensource&isLogin=1
+                        - generic [ref=e317]:
+                          - paragraph [ref=e318]: OrcaSlicer-BambuLab：开源3D打印切片工具，适配Bambu设备提升打印效果
+                          - generic [ref=e319]:
+                            - paragraph [ref=e321]:
+                              - generic [ref=e323]: C++
+                            - paragraph [ref=e324]: 查看详情
+                      - link "Hermes Agent：GitHub Trending项目追踪工具 Python 查看详情" [ref=e325] [cursor=pointer]:
+                        - /url: https://gitcode.com/GitHub_Trending/he/hermes-agent?utm_source=csdn-index-opensource&isLogin=1
+                        - generic [ref=e327]:
+                          - paragraph [ref=e328]: Hermes Agent：GitHub Trending项目追踪工具
+                          - generic [ref=e329]:
+                            - paragraph [ref=e331]:
+                              - generic [ref=e333]: Python
+                            - paragraph [ref=e334]: 查看详情
+                      - link "Chaterm — 开源SRE副驾驶，让你与服务器直接对话！ 服务器 13.9K 查看详情" [ref=e335] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/coderroad/article/details/157735374
+                        - generic [ref=e337]:
+                          - paragraph [ref=e338]: Chaterm — 开源SRE副驾驶，让你与服务器直接对话！
+                          - generic [ref=e339]:
+                            - generic [ref=e340]:
+                              - paragraph [ref=e341]:
+                                - generic [ref=e343]: 服务器
+                              - paragraph [ref=e344]:
+                                - generic [ref=e345]: 13.9K
+                            - paragraph [ref=e346]: 查看详情
+                      - link "拆箱开源版Coze：Agent核心三件套大公开，48小时揽下9K Star 人工智能 46.7K 查看详情" [ref=e347] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/coderroad/article/details/149722641
+                        - generic [ref=e349]:
+                          - paragraph [ref=e350]: 拆箱开源版Coze：Agent核心三件套大公开，48小时揽下9K Star
+                          - generic [ref=e351]:
+                            - generic [ref=e352]:
+                              - paragraph [ref=e353]:
+                                - generic [ref=e355]: 人工智能
+                              - paragraph [ref=e356]:
+                                - generic [ref=e357]: 46.7K
+                            - paragraph [ref=e358]: 查看详情
+                    - generic [ref=e359]:
+                      - link "MinIO：开源对象存储解决方案的领先者 开源 66.7K 查看详情" [ref=e360] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/coderroad/article/details/149424765
+                        - generic [ref=e362]:
+                          - paragraph [ref=e363]: MinIO：开源对象存储解决方案的领先者
+                          - generic [ref=e364]:
+                            - generic [ref=e365]:
+                              - paragraph [ref=e366]:
+                                - generic [ref=e368]: 开源
+                              - paragraph [ref=e369]:
+                                - generic [ref=e370]: 66.7K
+                            - paragraph [ref=e371]: 查看详情
+                      - link "LocalSend：比 AirDrop 更自由！这款神器让文件传输不再受限 https 63.3K 查看详情" [ref=e372] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/coderroad/article/details/149356472
+                        - generic [ref=e374]:
+                          - paragraph [ref=e375]: LocalSend：比 AirDrop 更自由！这款神器让文件传输不再受限
+                          - generic [ref=e376]:
+                            - generic [ref=e377]:
+                              - paragraph [ref=e378]:
+                                - generic [ref=e380]: https
+                              - paragraph [ref=e381]:
+                                - generic [ref=e382]: 63.3K
+                            - paragraph [ref=e383]: 查看详情
+                      - link "Excalidraw：一款轻量、高效、极具手感的在线白板工具 产品经理 55.9K 查看详情" [ref=e384] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/coderroad/article/details/149249425
+                        - generic [ref=e386]:
+                          - paragraph [ref=e387]: Excalidraw：一款轻量、高效、极具手感的在线白板工具
+                          - generic [ref=e388]:
+                            - generic [ref=e389]:
+                              - paragraph [ref=e390]:
+                                - generic [ref=e392]: 产品经理
+                              - paragraph [ref=e393]:
+                                - generic [ref=e394]: 55.9K
+                            - paragraph [ref=e395]: 查看详情
+                      - link "star31.6k，Aider：让代码编写如虎添翼的终端神器 人工智能 65.7K 查看详情" [ref=e396] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/coderroad/article/details/149169547
+                        - generic [ref=e398]:
+                          - paragraph [ref=e399]: star31.6k，Aider：让代码编写如虎添翼的终端神器
+                          - generic [ref=e400]:
+                            - generic [ref=e401]:
+                              - paragraph [ref=e402]:
+                                - generic [ref=e404]: 人工智能
+                              - paragraph [ref=e405]:
+                                - generic [ref=e406]: 65.7K
+                            - paragraph [ref=e407]: 查看详情
+                    - generic [ref=e408]:
+                      - link "用Rust编写的开源支付解决方案——Hyperswitch rust 62.6K 查看详情" [ref=e409] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/coderroad/article/details/149066439
+                        - generic [ref=e411]:
+                          - paragraph [ref=e412]: 用Rust编写的开源支付解决方案——Hyperswitch
+                          - generic [ref=e413]:
+                            - generic [ref=e414]:
+                              - paragraph [ref=e415]:
+                                - generic [ref=e417]: rust
+                              - paragraph [ref=e418]:
+                                - generic [ref=e419]: 62.6K
+                            - paragraph [ref=e420]: 查看详情
+                      - link "Langflow：这个拖拽式AI工作流神器正在颠覆传统编程 人工智能 75.8K 查看详情" [ref=e421] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/coderroad/article/details/148900678
+                        - generic [ref=e423]:
+                          - paragraph [ref=e424]: Langflow：这个拖拽式AI工作流神器正在颠覆传统编程
+                          - generic [ref=e425]:
+                            - generic [ref=e426]:
+                              - paragraph [ref=e427]:
+                                - generic [ref=e429]: 人工智能
+                              - paragraph [ref=e430]:
+                                - generic [ref=e431]: 75.8K
+                            - paragraph [ref=e432]: 查看详情
+                      - link "一键抠图有多强？19Kstar 的 Rembg 开源神器 python 57.9K 查看详情" [ref=e433] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/coderroad/article/details/148851428
+                        - generic [ref=e435]:
+                          - paragraph [ref=e436]: 一键抠图有多强？19Kstar 的 Rembg 开源神器
+                          - generic [ref=e437]:
+                            - generic [ref=e438]:
+                              - paragraph [ref=e439]:
+                                - generic [ref=e441]: python
+                              - paragraph [ref=e442]:
+                                - generic [ref=e443]: 57.9K
+                            - paragraph [ref=e444]: 查看详情
+                      - link "CHATERM AI：开启云资源氛围管理新篇章！ 人工智能 69.6K 查看详情" [ref=e445] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/coderroad/article/details/148769366
+                        - generic [ref=e447]:
+                          - paragraph [ref=e448]: CHATERM AI：开启云资源氛围管理新篇章！
+                          - generic [ref=e449]:
+                            - generic [ref=e450]:
+                              - paragraph [ref=e451]:
+                                - generic [ref=e453]: 人工智能
+                              - paragraph [ref=e454]:
+                                - generic [ref=e455]: 69.6K
+                            - paragraph [ref=e456]: 查看详情
+                  - list [ref=e457]:
+                    - listitem [ref=e458] [cursor=pointer]:
+                      - button [ref=e459]
+                    - listitem [ref=e460] [cursor=pointer]:
+                      - button [ref=e461]
+                    - listitem [ref=e462] [cursor=pointer]:
+                      - button [ref=e463]
+                    - listitem [ref=e464] [cursor=pointer]:
+                      - button [ref=e465]
+              - generic [ref=e466]:
+                - generic [ref=e467]:
+                  - generic [ref=e468]: 精选博客
+                  - link " 排行榜" [ref=e469] [cursor=pointer]:
+                    - /url: https://blog.csdn.net/rank/list
+                    - generic [ref=e470]: 
+                    - text: 排行榜
+                - generic [ref=e471]:
+                  - generic [ref=e474]:
+                    - link "羑悻的小杀马特." [ref=e475] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/2401_82648291
+                      - generic [ref=e476]: 羑悻的小杀马特.
+                    - generic [ref=e477]:
+                      - generic [ref=e478]:
+                        - link "全面开源！商汤日日新SenseNova U1发布，迈向模型理解生成统一时代" [ref=e479] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/2401_82648291/article/details/160659335
+                        - link "enseNova U1 是基于统一表征空间构建的，更像是一个从一开始就同时掌握多项技能的人。它不是先看懂图像、再翻译成文字、再交给另一个系统理解，而是在同一套“思考方式”里直接处理图像、文字等不同信息。图像和语言不再是两套系统之间的接力，而是在同一个大脑中自然融合。" [ref=e480] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/2401_82648291/article/details/160659335
+                        - generic [ref=e481]:
+                          - paragraph [ref=e483]:
+                            - generic [ref=e484]: 阅读 9.9k
+                          - paragraph [ref=e486] [cursor=pointer]:
+                            - generic [ref=e487]: 23赞
+                          - link "收藏 25" [ref=e489] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/2401_82648291/article/details/160659335
+                            - generic [ref=e490]: 收藏 25
+                      - link [ref=e491] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/2401_82648291/article/details/160659335
+                  - generic [ref=e495]:
+                    - link "刃神太酷啦" [ref=e496] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/rs1257483201
+                      - generic [ref=e497]: 刃神太酷啦
+                    - generic [ref=e498]:
+                      - generic [ref=e499]:
+                        - link "《网络基础全链路深度解析：从Socket编程到HTTPS与TCP/UDP内核机制》----《Hello Linux!》(25)" [ref=e500] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/rs1257483201/article/details/157216554
+                        - link "本文深入探讨了HTTPS协议的安全机制与TCP/UDP协议的底层原理。HTTPS通过TLS/SSL加密层实现安全传输，结合对称加密（高效）与非对称加密（安全）技术，并引入CA认证体系解决中间人攻击问题。TCP协议通过三次握手建立可靠连接，采用确认应答、超时重传、滑动窗口等机制确保数据传输的可靠性和效率；其协议段格式包含序号、确认号、窗口大小等关键字段。UDP协议则提供高效无连接传输，但缺乏可靠性保障。文章还分析了TCP连接管理机制，包括三次握手、四次挥手过程，以及异常处理策略。整体构建了从加密原理到协议实现" [ref=e501] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/rs1257483201/article/details/157216554
+                        - generic [ref=e502]:
+                          - paragraph [ref=e504]:
+                            - generic [ref=e505]: 阅读 1.4k
+                          - paragraph [ref=e507] [cursor=pointer]:
+                            - generic [ref=e508]: 59赞
+                          - link "收藏 14" [ref=e510] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/rs1257483201/article/details/157216554
+                            - generic [ref=e511]: 收藏 14
+                      - link [ref=e512] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/rs1257483201/article/details/157216554
+                  - generic [ref=e516]:
+                    - link "静Yu" [ref=e517] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/qq_46285118
+                      - generic [ref=e518]: 静Yu
+                    - generic [ref=e519]:
+                      - generic [ref=e520]:
+                        - link "多模态原生的暴力美学：看“理解生成”双强的商汤 SenseNova U1 到底有多好用" [ref=e521] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/qq_46285118/article/details/160668193
+                        - link "4月28日，商汤科技揭开了其AI版图的最新篇章，正式发布并开源了日日新SenseNova U1 Lite系列。这一原生多模态模型的面世，标志着大模型技术从简单的“能力集成”向“原生统一”的深度跨越。" [ref=e522] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/qq_46285118/article/details/160668193
+                        - generic [ref=e523]:
+                          - paragraph [ref=e525]:
+                            - generic [ref=e526]: 阅读 1.2w
+                          - paragraph [ref=e528] [cursor=pointer]:
+                            - generic [ref=e529]: 15赞
+                          - link "收藏 9" [ref=e531] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/qq_46285118/article/details/160668193
+                            - generic [ref=e532]: 收藏 9
+                      - link [ref=e533] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/qq_46285118/article/details/160668193
+                  - generic [ref=e537]:
+                    - link "攻城狮7号" [ref=e538] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/linshantang
+                      - generic [ref=e539]: 攻城狮7号
+                    - generic [ref=e540]:
+                      - generic [ref=e541]:
+                        - link "OpenAI推出网络安全专用模型GPT-5.5-Cyber" [ref=e542] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/linshantang/article/details/160961547
+                        - link "OpenAI 推出的 GPT-5.5 和预览版 GPT-5.5-Cyber 旨在通过“网络可信访问（TAC）”框架，为网络防御者提供强大的 AI 支持。GPT-5.5 结合 TAC 适用于大多数防御工作，如漏洞分析和代码审查；而 GPT-5.5-Cyber 则为高级授权任务（如红队测试）提供更宽松的权限。这些模型通过与安全供应商合作，加速漏洞发现、修复和网络保护，构建更安全的数字生态。" [ref=e543] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/linshantang/article/details/160961547
+                        - generic [ref=e544]:
+                          - paragraph [ref=e546]:
+                            - generic [ref=e547]: 阅读 2.3k
+                          - paragraph [ref=e549] [cursor=pointer]:
+                            - generic [ref=e550]: 11赞
+                          - link "收藏 9" [ref=e552] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/linshantang/article/details/160961547
+                            - generic [ref=e553]: 收藏 9
+                      - link [ref=e554] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/linshantang/article/details/160961547
+                  - generic [ref=e558]:
+                    - link "陈工说仪表" [ref=e559] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/2601_95831386
+                      - generic [ref=e560]: 陈工说仪表
+                    - generic [ref=e561]:
+                      - generic [ref=e562]:
+                        - link "康宝莱智慧水务 MC6730 系列：专为 “小流量、高精度、高温卫生、糖浆类介质” 量身定做" [ref=e563] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/2601_95831386/article/details/160445837
+                        - link "康宝莱智慧水务MC6730 系列电磁流量计不是通用型仪表，而是针对小流量、高精度、高温卫生、糖浆类介质的深度定制产品。它以 “小流量精准、高温稳定、卫生合规、抗挂料长效” 四大核心优势，完美解决传统流量计的适配痛点，成为食品饮料、制药、精细化工等行业糖浆计量的优选。无论是小剂量配料的精准控制，还是高温杀菌的稳定计量，亦或是卫生级生产的合规要求，MC6730 都能一站式满足，帮助企业减少原料超耗、提升产品品质、降低运维成本，实现糖浆类介质计量的高效化、合规化、智能化。" [ref=e564] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/2601_95831386/article/details/160445837
+                        - generic [ref=e565]:
+                          - paragraph [ref=e567]:
+                            - generic [ref=e568]: 阅读 744
+                          - paragraph [ref=e570] [cursor=pointer]:
+                            - generic [ref=e571]: 26赞
+                          - link "收藏 7" [ref=e573] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/2601_95831386/article/details/160445837
+                            - generic [ref=e574]: 收藏 7
+                      - link [ref=e575] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/2601_95831386/article/details/160445837
+                  - generic [ref=e579]:
+                    - link "User_芊芊君子" [ref=e580] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/user340
+                      - generic [ref=e581]: User_芊芊君子
+                    - generic [ref=e582]:
+                      - generic [ref=e583]:
+                        - link "全面开源！商汤日日新SenseNova U1发布，迈向模型理解生成统一时代" [ref=e584] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/user340/article/details/160636369
+                        - link "商汤科技正式开源发布SenseNova U1系列原生理解生成统一模型，基于创新的NEO-unify架构实现了多模态理解、推理与生成的一体化。该架构通过统一表征空间直接建模语言与视觉信息，相比传统拼接式模型具有更高效率和信息保真度。开源的轻量版SenseNova U1 Lite包含8B-MoT和A3B-MoT两个规格，在多项基准测试中达到同量级开源模型SOTA水平，其独特优势包括：1）原生统一架构带来更高信息处理效率；2）业内首创的连续性图文创作能力；3）复杂信息图生成的商业级表现。该模型已同步在GitHub" [ref=e585] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/user340/article/details/160636369
+                        - generic [ref=e586]:
+                          - paragraph [ref=e588]:
+                            - generic [ref=e589]: 阅读 1.1w
+                          - paragraph [ref=e591] [cursor=pointer]:
+                            - generic [ref=e592]: 35赞
+                          - link "收藏 40" [ref=e594] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/user340/article/details/160636369
+                            - generic [ref=e595]: 收藏 40
+                      - link [ref=e596] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/user340/article/details/160636369
+                  - generic [ref=e600]:
+                    - link "X.AI666" [ref=e601] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/chen695969
+                      - generic [ref=e602]: X.AI666
+                    - generic [ref=e603]:
+                      - generic [ref=e604]:
+                        - link "小米 MiMo‑V2.5‑Pro 上手体验：一款能硬刚 GPT‑5.4 的国产大模型有多强？" [ref=e605] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/chen695969/article/details/160450506
+                        - link "小米推出自研大模型MiMo-V2.5-Pro，在复杂任务处理、长程推理和软件工程方面表现突出。该模型能稳定执行上千次工具调用的长链路任务，在编译器开发、模拟电路设计等案例中展现了强大的工程能力。相比前代，V2.5-Pro提升了40-60%的token效率，成本更低。官方表示该模型即将开源，将为企业级自动化和智能体开发提供新选择。开发者可通过小米API平台直接调用，无需额外适配。" [ref=e606] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/chen695969/article/details/160450506
+                        - generic [ref=e607]:
+                          - paragraph [ref=e609]:
+                            - generic [ref=e610]: 阅读 1.7k
+                          - paragraph [ref=e612] [cursor=pointer]:
+                            - generic [ref=e613]: 9赞
+                          - link "收藏 10" [ref=e615] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/chen695969/article/details/160450506
+                            - generic [ref=e616]: 收藏 10
+                      - link [ref=e617] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/chen695969/article/details/160450506
+                  - generic [ref=e621]:
+                    - link "flyair_China" [ref=e622] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/weixin_49199313
+                      - generic [ref=e623]: flyair_China
+                    - generic [ref=e625]:
+                      - link "【信息科学与工程学】【安全领域】 第八十八篇 网络空间安全11" [ref=e626] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/weixin_49199313/article/details/160531618
+                      - link "编号网络空间安全领域网络空间存在的安全问题解决方式/方法/操作/行为详细说明和技术手段/管理方法/运营策略关键参数/数学模型/算法关联知识/技术标准7261云计算/虚拟化/物理攻击跨虚拟机缓存侧信道攻击在虚拟化环境中，多个虚拟机共享CPU缓存。攻击者虚拟机通过监控自身缓存访问时间，推断受害者虚拟机在缓存中的活动，从而提取敏感信息，如加密密钥。缓存分区， 恒定时间算法， 虚拟机调度隔离， 缓存刷新。算法：使用缓存分配技术（CAT）将缓存划分为多个分区，每个虚拟机分配独立分区，防止跨虚拟机缓存干扰。在密码学算" [ref=e627] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/weixin_49199313/article/details/160531618
+                      - generic [ref=e628]:
+                        - paragraph [ref=e630]:
+                          - generic [ref=e631]: 阅读 3.8k
+                        - paragraph [ref=e633] [cursor=pointer]:
+                          - generic [ref=e634]: 67赞
+                        - link "收藏 15" [ref=e636] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/weixin_49199313/article/details/160531618
+                          - generic [ref=e637]: 收藏 15
+                  - generic [ref=e640]:
+                    - link "热爱跑步的恒川" [ref=e641] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/m0_75058342
+                      - generic [ref=e642]: 热爱跑步的恒川
+                    - generic [ref=e643]:
+                      - generic [ref=e644]:
+                        - link "2026年AI助手深度测评：4 个Claw全面对比后，为什么ToDesk AI 更值得排第一" [ref=e645] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/m0_75058342/article/details/160600728
+                        - link "如果只是泛泛谈一轮参数，很多人最后还是会回到原点，不知道该怎么选。但如果把选择标准换成更实际的问题，其实答案会清楚很多。OpenClaw 值得看，但更适合技术驱动型团队和需要深度定制的人。AutoClaw 值得看，但更适合作为快速体验和轻量试用的入口。NanoClaw 值得看，但更适合认同其轻量工程路线的用户。而 ToDesk AI 的特别之处在于，它更像是把“能用、好用、易推广、能持续用”这几件事同时兼顾了。在这些Claw中，我最推荐的就是。产品部署与上手功能完整性模型支持安全与可控。" [ref=e646] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/m0_75058342/article/details/160600728
+                        - generic [ref=e647]:
+                          - paragraph [ref=e649]:
+                            - generic [ref=e650]: 阅读 1.1w
+                          - paragraph [ref=e652] [cursor=pointer]:
+                            - generic [ref=e653]: 13赞
+                          - link "收藏 15" [ref=e655] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/m0_75058342/article/details/160600728
+                            - generic [ref=e656]: 收藏 15
+                      - link [ref=e657] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/m0_75058342/article/details/160600728
+                  - generic [ref=e661]:
+                    - link "2601_96063044" [ref=e662] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/2601_96063044
+                      - generic [ref=e663]: 2601_96063044
+                    - generic [ref=e664]:
+                      - generic [ref=e665]:
+                        - link "【小白必看】：Win10 部署 OpenClaw 全流程操作（含安装包）" [ref=e666] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/2601_96063044/article/details/161080279
+                        - link "【Windows10专属OpenClaw一键部署指南】本文提供专为Win10优化的OpenClaw AI智能体本地部署方案，具有免命令行、解压即装等优势。教程包含六个关键步骤：下载适配版部署包、正确解压文件、处理SmartScreen拦截、配置安装路径、完成部署及初始化使用。特别针对Win10系统提供了权限设置、杀毒软件关闭等避坑建议，并解答了常见问题如权限不足、Gateway离线等。该方案确保Win10用户能在10分钟内完成AI数字员工的本地化部署，实现文件整理、自动化办公等功能，所有数据均在本地运行保障" [ref=e667] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/2601_96063044/article/details/161080279
+                        - generic [ref=e668]:
+                          - paragraph [ref=e670]:
+                            - generic [ref=e671]: 阅读 35
+                          - paragraph [ref=e673] [cursor=pointer]:
+                            - generic [ref=e674]: 2赞
+                          - link "收藏 0" [ref=e676] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/2601_96063044/article/details/161080279
+                            - generic [ref=e677]: 收藏 0
+                      - link [ref=e678] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/2601_96063044/article/details/161080279
+                  - generic [ref=e682]:
+                    - link "F_D_Z" [ref=e683] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/weixin_73404807
+                      - generic [ref=e684]: F_D_Z
+                    - generic [ref=e686]:
+                      - link "独热编码与余弦相似度" [ref=e687] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/weixin_73404807/article/details/159758731
+                      - link "本文介绍了两种机器学习中常用的数据处理方法。第一部分讲解独热编码(One-Hot Encoding)，用于将类别型数据转换为数值型数据，避免直接赋整数值带来的虚假数值关系。通过数学定义、代码实现和特性分析，说明其优缺点及替代方案。第二部分介绍余弦相似度(Cosine Similarity)，重点阐述其在度量向量相似性方面的优势，包括数学原理、代码实现、与其他度量的对比，以及在文本相似度等场景的应用。两种方法各具特点，独热编码适用于类别数据处理，余弦相似度则擅长衡量向量间的相似程度。" [ref=e688] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/weixin_73404807/article/details/159758731
+                      - generic [ref=e689]:
+                        - paragraph [ref=e691]:
+                          - generic [ref=e692]: 阅读 1.3k
+                        - paragraph [ref=e694] [cursor=pointer]:
+                          - generic [ref=e695]: 36赞
+                        - link "收藏 10" [ref=e697] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/weixin_73404807/article/details/159758731
+                          - generic [ref=e698]: 收藏 10
+                  - generic [ref=e701]:
+                    - link "Huangjin007_" [ref=e702] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/Huang_jin007
+                      - generic [ref=e703]: Huangjin007_
+                    - generic [ref=e704]:
+                      - generic [ref=e705]:
+                        - link "【C++ 继承】万字拆解：从入门到设计哲学，彻底搞懂每一个坑" [ref=e706] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/Huang_jin007/article/details/160878504
+                        - 'link "继承是面向对象程序设计中实现代码复用的最重要的手段。它不是在函数层面复用（比如写一个通用函数到处调用），而是在类的设计层面进行复用。我们可以在保持原有类特性的基础上，通过继承来扩展新类，增加新的成员变量和成员函数。新产生的类叫做派生类，也叫子类；被继承的类叫做基类，也叫父类。这种叫法源于翻译习惯，我们后面会混用这些称呼。class 派生类名 : 继承方式 基类名 {// 派生类新增的成员 };" [ref=e707] [cursor=pointer]':
+                          - /url: https://blog.csdn.net/Huang_jin007/article/details/160878504
+                        - generic [ref=e708]:
+                          - paragraph [ref=e710]:
+                            - generic [ref=e711]: 阅读 1k
+                          - paragraph [ref=e713] [cursor=pointer]:
+                            - generic [ref=e714]: 54赞
+                          - link "收藏 26" [ref=e716] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/Huang_jin007/article/details/160878504
+                            - generic [ref=e717]: 收藏 26
+                      - link [ref=e718] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/Huang_jin007/article/details/160878504
+                  - generic [ref=e722]:
+                    - link "Brilliantwxx" [ref=e723] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/2602_95649725
+                      - generic [ref=e724]: Brilliantwxx
+                    - generic [ref=e725]:
+                      - generic [ref=e726]:
+                        - link "【C++】类与对象（下）" [ref=e727] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/2602_95649725/article/details/160479675
+                        - link "• 尽量使⽤初始化列表初始化，因为那些你不在初始化列表初始化的成员也会⾛初始化列表，如果这个成员在声明位置给了缺省值，初始化列表会⽤这个缺省值初始化。• 之前我们实现构造函数时，初始化成员变量主要使⽤函数体内赋值，构造函数初始化还有⼀种⽅式，就是初始化列表，初始化列表的使⽤⽅式是以⼀个。• 每个成员变量在初始化列表中只能出现⼀次，语法理解上初始化列表可以认为是每个成员变量定义初始化的地⽅。• C++11⽀持在成员变量声明的位置给缺省值，这个缺省值主要是给没有显⽰在初始化列表初始化的成员使⽤的。" [ref=e728] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/2602_95649725/article/details/160479675
+                        - generic [ref=e729]:
+                          - paragraph [ref=e731]:
+                            - generic [ref=e732]: 阅读 1.2k
+                          - paragraph [ref=e734] [cursor=pointer]:
+                            - generic [ref=e735]: 59赞
+                          - link "收藏 31" [ref=e737] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/2602_95649725/article/details/160479675
+                            - generic [ref=e738]: 收藏 31
+                      - link [ref=e739] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/2602_95649725/article/details/160479675
+                  - generic [ref=e743]:
+                    - link "河阿里" [ref=e744] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/2401_88537889
+                      - generic [ref=e745]: 河阿里
+                    - generic [ref=e747]:
+                      - link "HTML5标准完全教学手册" [ref=e748] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/2401_88537889/article/details/160448791
+                      - link "HTML5是构建网页内容的骨架标准。它不仅仅是HTML的简单升级，而是一套完整的Web应用技术栈。" [ref=e749] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/2401_88537889/article/details/160448791
+                      - generic [ref=e750]:
+                        - paragraph [ref=e752]:
+                          - generic [ref=e753]: 阅读 2.2k
+                        - paragraph [ref=e755] [cursor=pointer]:
+                          - generic [ref=e756]: 19赞
+                        - link "收藏 11" [ref=e758] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/2401_88537889/article/details/160448791
+                          - generic [ref=e759]: 收藏 11
+                  - generic [ref=e762]:
+                    - link "软件科学-郝学胜" [ref=e763] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/2503_92624912
+                      - generic [ref=e764]: 软件科学-郝学胜
+                    - generic [ref=e765]:
+                      - generic [ref=e766]:
+                        - link "[简化版 GAMES 101] 计算机图形学 06：相机视图矩阵的由来" [ref=e767] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/2503_92624912/article/details/160524088
+                        - link "本文系统梳理了计算机图形学中的核心变换技术，从二维到三维再到视图投影。主要内容包括： 二维变换基础：重点讲解旋转矩阵的正交特性（转置=逆）和平移引入的齐次坐标必要性； 三维变换扩展：在二维基础上增加Z轴，分析绕各轴旋转的矩阵差异，介绍欧拉角和四元数插值； 视图矩阵推导：通过&quot;移动场景代替移动相机&quot;的思路，分步构建平移和旋转矩阵，最终合并得到标准View矩阵，实现任意相机姿态到标准视图的转换。 全文通过矩阵运算揭示了图形学中空间变换的数学本质，为理解三维到二维的投影过程奠定了理论基础。" [ref=e768] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/2503_92624912/article/details/160524088
+                        - generic [ref=e769]:
+                          - paragraph [ref=e771]:
+                            - generic [ref=e772]: 阅读 4.2k
+                          - paragraph [ref=e774] [cursor=pointer]:
+                            - generic [ref=e775]: 102赞
+                          - link "收藏 74" [ref=e777] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/2503_92624912/article/details/160524088
+                            - generic [ref=e778]: 收藏 74
+                      - link [ref=e779] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/2503_92624912/article/details/160524088
+                  - generic [ref=e783]:
+                    - link "多年小白" [ref=e784] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/weixin_45526015
+                      - generic [ref=e785]: 多年小白
+                    - generic [ref=e786]:
+                      - generic [ref=e787]:
+                        - link "【盘前分析】2026年5月11日（周一）开盘指南" [ref=e788] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/weixin_45526015/article/details/160961082
+                        - link "- [ ] 国防军工/成飞概念 开盘强度（>+1%还是冲高回落）- [ ] 汽车零部件 早盘走势（顺延上涨还是获利了结）- [ ] 科创50开盘位置（是否守住1640，关注1600支撑）- [ ] 上证指数能否上攻4200点整数关口" [ref=e789] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/weixin_45526015/article/details/160961082
+                        - generic [ref=e790]:
+                          - paragraph [ref=e792]:
+                            - generic [ref=e793]: 阅读 1.4k
+                          - paragraph [ref=e795] [cursor=pointer]:
+                            - generic [ref=e796]: 15赞
+                          - link "收藏 4" [ref=e798] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/weixin_45526015/article/details/160961082
+                            - generic [ref=e799]: 收藏 4
+                      - link [ref=e800] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/weixin_45526015/article/details/160961082
+                  - generic [ref=e804]:
+                    - link "Waseda-极光测试" [ref=e805] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/2601_95874776
+                      - generic [ref=e806]: Waseda-极光测试
+                    - generic [ref=e807]:
+                      - generic [ref=e808]:
+                        - link "【从结果走向C语言】操作符全解" [ref=e809] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/2601_95874776/article/details/160833417
+                        - link "本文系统梳理并详解 C 语言中12 大类操作符的用法与原理，覆盖赋值、单目、关系、算术、位、移位、逻辑等核心操作符。从基础概念、语法规则入手，结合完整可运行代码示例，清晰讲解++/--自增减、&|^位运算、&&||逻辑判断、?:条件表达式等重点知识，同时区分结构体成员访问.->、下标[]、函数调用()等特殊操作符用法。文中还补充操作符优先级与结合性规则，帮助理解表达式执行顺序，内容兼顾入门易懂与实战实用，可作为 C 语言基础学习与复习的参考资料。" [ref=e810] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/2601_95874776/article/details/160833417
+                        - generic [ref=e811]:
+                          - paragraph [ref=e813]:
+                            - generic [ref=e814]: 阅读 1.6k
+                          - paragraph [ref=e816] [cursor=pointer]:
+                            - generic [ref=e817]: 46赞
+                          - link "收藏 12" [ref=e819] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/2601_95874776/article/details/160833417
+                            - generic [ref=e820]: 收藏 12
+                      - link [ref=e821] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/2601_95874776/article/details/160833417
+                  - generic [ref=e825]:
+                    - link "这机我熟" [ref=e826] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/2601_95822891
+                      - generic [ref=e827]: 这机我熟
+                    - generic [ref=e828]:
+                      - generic [ref=e829]:
+                        - link "2026年潜望式长焦手机怎么选？6000-10000元远摄能力最强手机推荐与横评，OPPO Find X9 Ultra领衔" [ref=e830] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/2601_95822891/article/details/160467615
+                        - link "如果你青睐华为生态，且欣赏其创新的长焦结构设计，追求9.4倍光变下的稳定出片，特别是对国产核心技术有偏好，Pura 80 Ultra是高端市场的有力竞争者。：主摄同样为2亿像素（索尼LYT-901，1/1.12英寸），与3倍长焦组成‘双2亿像素’系统，从广角到中长焦，画质基准线全面提升。：延续多焦段方案，配备3倍和5倍两颗光学长焦镜头，支持最高100倍数码变焦，并拥有独特的S Pen和防窥屏功能。的手机，更凭借其‘光学至上，口袋哈苏’的理念，带来了全方位的影像突破，堪称2026年影像旗舰的天花板。" [ref=e831] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/2601_95822891/article/details/160467615
+                        - generic [ref=e832]:
+                          - paragraph [ref=e834]:
+                            - generic [ref=e835]: 阅读 6.2k
+                          - paragraph [ref=e837] [cursor=pointer]:
+                            - generic [ref=e838]: 10赞
+                          - link "收藏 3" [ref=e840] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/2601_95822891/article/details/160467615
+                            - generic [ref=e841]: 收藏 3
+                      - link [ref=e842] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/2601_95822891/article/details/160467615
+                  - generic [ref=e846]:
+                    - link "星辰大海2024" [ref=e847] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/xingchendai2023
+                      - generic [ref=e848]: 星辰大海2024
+                    - generic [ref=e849]:
+                      - generic [ref=e850]:
+                        - link "JVM GC" [ref=e851] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/xingchendai2023/article/details/160773708
+                        - link "摘要：JDK1.8的HotSpot虚拟机GC机制主要工作在堆内存区域，采用分代回收策略。新生代使用复制算法进行频繁的MinorGC（毫秒级），处理朝生夕死的对象；老年代采用标记清除/整理算法进行MajorGC（秒级），处理长期存活对象。引用类型分强/软/弱/虚四种，回收强度依次递减。G1收集器作为JDK9+的现代方案，通过区域化分代和混合回收避免FullGC。FullGC会清理整个堆空间，停顿时间最长，应尽量避免。可达性分析是判断对象存活的核心机制，与引用类型共同决定回收行为。" [ref=e852] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/xingchendai2023/article/details/160773708
+                        - generic [ref=e853]:
+                          - paragraph [ref=e855]:
+                            - generic [ref=e856]: 阅读 1.7k
+                          - paragraph [ref=e858] [cursor=pointer]:
+                            - generic [ref=e859]: 48赞
+                          - link "收藏 7" [ref=e861] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/xingchendai2023/article/details/160773708
+                            - generic [ref=e862]: 收藏 7
+                      - link [ref=e863] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/xingchendai2023/article/details/160773708
+                  - generic [ref=e867]:
+                    - link "星河耀银海" [ref=e868] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/aiclaws
+                      - generic [ref=e869]: 星河耀银海
+                    - generic [ref=e870]:
+                      - generic [ref=e871]:
+                        - link "讲 PPT 的时候台下没人抬头，你有没有想过问题出在哪？" [ref=e872] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/aiclaws/article/details/160860474
+                        - link "你有没有过这种经历：站在台上翻 PPT，翻一页下面低头一片，翻下一页还是没人抬头，提问环节更是一片沉默。你讲得不算差，内容也不差，但就是没人响应——不是你的问题，是单向输出这件事本身就在赶人。这个问题其实不是内容好坏的问题，是形式的问题。一个人讲、一群人听，听众没有参与感，精髓的东西也听不进去。这个场景不管是公司汇报、课堂授课还是发布会都特别常见。Claper 这个工具解决的就是这个。" [ref=e873] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/aiclaws/article/details/160860474
+                        - generic [ref=e874]:
+                          - paragraph [ref=e876]:
+                            - generic [ref=e877]: 阅读 1.3w
+                          - paragraph [ref=e879] [cursor=pointer]:
+                            - generic [ref=e880]: 58赞
+                          - link "收藏 49" [ref=e882] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/aiclaws/article/details/160860474
+                            - generic [ref=e883]: 收藏 49
+                      - link [ref=e884] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/aiclaws/article/details/160860474
+                  - generic [ref=e888]:
+                    - link "星辰徐哥" [ref=e889] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/COLLINSXU
+                      - generic [ref=e890]: 星辰徐哥
+                    - generic [ref=e891]:
+                      - generic [ref=e892]:
+                        - link "HTTP请求方法：GET与POST的区别，各自适用场景" [ref=e893] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/COLLINSXU/article/details/160957824
+                        - link "HTTP请求方法GET与POST是网络通信的核心概念，GET用于获取数据，参数显示在URL中；POST用于提交数据，参数包含在请求体中。GET适合安全操作如查询，POST适合敏感操作如登录。文章从协议原理、技术实现到应用场景全面解析两者的区别，包括： 概念解析：定义GET/POST的技术内涵 工作原理：基于TCP/IP协议栈的分层模型 关键差异：安全性、参数传递方式、缓存特性等 适用场景：GET用于幂等操作，POST用于数据修改 实践示例：通过Python代码演示网络通信实现 掌握这些知识对网络" [ref=e894] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/COLLINSXU/article/details/160957824
+                        - generic [ref=e895]:
+                          - paragraph [ref=e897]:
+                            - generic [ref=e898]: 阅读 9.9k
+                          - paragraph [ref=e900] [cursor=pointer]:
+                            - generic [ref=e901]: 74赞
+                          - link "收藏 69" [ref=e903] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/COLLINSXU/article/details/160957824
+                            - generic [ref=e904]: 收藏 69
+                      - link [ref=e905] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/COLLINSXU/article/details/160957824
+                  - generic [ref=e909]:
+                    - link "JAVA面经实录917" [ref=e910] [cursor=pointer]:
+                      - /url: https://blog.csdn.net/wbkang
+                      - generic [ref=e911]: JAVA面经实录917
+                    - generic [ref=e912]:
+                      - generic [ref=e913]:
+                        - link "Java+SpringAI企业级实战项目完整官方文档（生产终版)" [ref=e914] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/wbkang/article/details/160586573
+                        - link "本文档为最终完整版企业级SpringAI项目，整合所有功能开发、漏洞修复、生产加固、部署方案，无任何缺失，可直接用于企业开发、测试、生产上线。覆盖核心能力：环境搭建、基础AI接入、流式响应、RAG检索增强、AI函数调用、国产大模型动态切换、会话记忆、AI缓存、Prompt安全防护、限流熔断降级、Nacos配置热更新、Jasypt高强度加密、Docker容器化部署、全链路异常处理。" [ref=e915] [cursor=pointer]:
+                          - /url: https://blog.csdn.net/wbkang/article/details/160586573
+                        - generic [ref=e916]:
+                          - paragraph [ref=e918]:
+                            - generic [ref=e919]: 阅读 2.8k
+                          - paragraph [ref=e921] [cursor=pointer]:
+                            - generic [ref=e922]: 45赞
+                          - link "收藏 32" [ref=e924] [cursor=pointer]:
+                            - /url: https://blog.csdn.net/wbkang/article/details/160586573
+                            - generic [ref=e925]: 收藏 32
+                      - link [ref=e926] [cursor=pointer]:
+                        - /url: https://blog.csdn.net/wbkang/article/details/160586573
+          - generic [ref=e929]:
+            - generic [ref=e931]:
+              - generic [ref=e932] [cursor=pointer]:
+                - text: 广告
+                - generic [ref=e933]: 
+              - generic [ref=e934]:
+                - generic [ref=e935]:
+                  - text:  
+                  - generic [ref=e938]:
+                    - iframe [ref=e939]:
+                      
+                    - img
+                  - generic [ref=e942]:
+                    - iframe [ref=e943]:
+                      
+                    - img
+                  - generic [ref=e946]:
+                    - iframe [ref=e947]:
+                      
+                    - img
+                  - generic [ref=e950]:
+                    - iframe [ref=e951]:
+                      
+                    - img
+                - list [ref=e952]:
+                  - listitem [ref=e953] [cursor=pointer]:
+                    - button [ref=e954]
+                  - listitem [ref=e955] [cursor=pointer]:
+                    - button [ref=e956]
+                  - listitem [ref=e957] [cursor=pointer]:
+                    - button [ref=e958]
+                  - listitem [ref=e959] [cursor=pointer]:
+                    - button [ref=e960]
+            - generic [ref=e961]:
+              - generic [ref=e962]:
+                - heading "社区推荐" [level=3] [ref=e964]
+                - link "更多 " [ref=e965] [cursor=pointer]:
+                  - /url: https://devpress.csdn.net
+                  - text: 更多
+                  - generic [ref=e966]: 
+              - generic [ref=e968] [cursor=pointer]:
+                - generic [ref=e969]: 高通开发者中文社区
+                - generic [ref=e970]: 
+              - generic [ref=e972] [cursor=pointer]:
+                - generic [ref=e973]: HarmonyOS开发者社区
+                - generic [ref=e974]: 
+              - generic [ref=e976] [cursor=pointer]:
+                - generic [ref=e977]: 鲲鹏昇腾开发者社区
+                - generic [ref=e978]: 
+              - generic [ref=e980] [cursor=pointer]:
+                - generic [ref=e981]: NVIDIA AI技术专区
+                - generic [ref=e982]: 
+              - generic [ref=e984] [cursor=pointer]:
+                - generic [ref=e985]: 葡萄城开发者空间
+                - generic [ref=e986]: 
+              - generic [ref=e988] [cursor=pointer]:
+                - generic [ref=e989]: DAMO开发者矩阵
+                - generic [ref=e990]: 
+              - generic [ref=e992] [cursor=pointer]:
+                - generic [ref=e993]: LAVAL社区
+                - generic [ref=e994]: 
+            - generic [ref=e995]:
+              - generic [ref=e996]:
+                - heading "直播" [level=3] [ref=e998]
+                - link "更多 " [ref=e999] [cursor=pointer]:
+                  - /url: https://live.csdn.net/?spm=1000.2115.3001.4124
+                  - text: 更多
+                  - generic [ref=e1000]: 
+              - generic [ref=e1001]:
+                - link "龙虾专场：当人人都有龙虾，生活会怎么样？ 05/14 14:00 直播预约" [ref=e1003] [cursor=pointer]:
+                  - /url: https://live.csdn.net/room/csdnnews/RIP1SXId
+                  - generic [ref=e1005]:
+                    - heading "龙虾专场：当人人都有龙虾，生活会怎么样？" [level=3] [ref=e1006]
+                    - paragraph [ref=e1007]:
+                      - generic [ref=e1008]: 05/14 14:00
+                      - generic [ref=e1009]: 直播预约
+                - link "算力被榨干、显存常年OOM？大模型是时候外接“记忆硬盘 05/14 19:00 直播预约" [ref=e1011] [cursor=pointer]:
+                  - /url: https://live.csdn.net/room/qq_41610763/TBP1gJcE
+                  - generic [ref=e1013]:
+                    - heading "算力被榨干、显存常年OOM？大模型是时候外接“记忆硬盘" [level=3] [ref=e1014]
+                    - paragraph [ref=e1015]:
+                      - generic [ref=e1016]: 05/14 19:00
+                      - generic [ref=e1017]: 直播预约
+                - link "高德开放平台AI产品发布会 05/15 14:30 直播预约" [ref=e1019] [cursor=pointer]:
+                  - /url: https://live.csdn.net/room/csdnnews/iUu6vMMl
+                  - generic [ref=e1021]:
+                    - heading "高德开放平台AI产品发布会" [level=3] [ref=e1022]
+                    - paragraph [ref=e1023]:
+                      - generic [ref=e1024]: 05/15 14:30
+                      - generic [ref=e1025]: 直播预约
+                - link "Elastic Agent Builder 介绍：核心概念与应用场景 05/20 00:00 直播预约" [ref=e1027] [cursor=pointer]:
+                  - /url: https://live.csdn.net/room/UbuntuTouch/m2sRAh18
+                  - generic [ref=e1029]:
+                    - heading "Elastic Agent Builder 介绍：核心概念与应用场景" [level=3] [ref=e1030]
+                    - paragraph [ref=e1031]:
+                      - generic [ref=e1032]: 05/20 00:00
+                      - generic [ref=e1033]: 直播预约
+            - generic [ref=e1034]:
+              - generic [ref=e1035]:
+                - heading "活动日历" [level=3] [ref=e1037]
+                - link "更多 " [ref=e1038] [cursor=pointer]:
+                  - /url: https://huiyi.csdn.net/
+                  - text: 更多
+                  - generic [ref=e1039]: 
+              - generic [ref=e1040]:
+                - generic [ref=e1042]:
+                  - generic [ref=e1043]:
+                    - paragraph [ref=e1044]: "13"
+                    - paragraph [ref=e1045]: 5月
+                  - link "Create2026百度AI开发者大会 北京" [ref=e1047] [cursor=pointer]:
+                    - /url: https://create2026.events.net.cn/#/
+                    - generic [ref=e1048]: Create2026百度AI开发者大会
+                    - generic [ref=e1049]: 北京
+                - generic [ref=e1051]:
+                  - generic [ref=e1052]:
+                    - paragraph [ref=e1053]: "15"
+                    - paragraph [ref=e1054]: 05月
+                  - link "高德开放平台AI产品发布会 线上" [ref=e1056] [cursor=pointer]:
+                    - /url: https://live.csdn.net/room/csdnnews/iUu6vMMl
+                    - generic [ref=e1057]: 高德开放平台AI产品发布会
+                    - generic [ref=e1058]: 线上
+                - generic [ref=e1060]:
+                  - generic [ref=e1061]:
+                    - paragraph [ref=e1062]: "19"
+                    - paragraph [ref=e1063]: 5月
+                  - link "AMD AI 开发者日2026 上海" [ref=e1065] [cursor=pointer]:
+                    - /url: https://amdcommercial.anruidm.com/amd-ai-dev-day/index?channelCode=d87o9y16
+                    - generic [ref=e1066]: AMD AI 开发者日2026
+                    - generic [ref=e1067]: 上海
+                - generic [ref=e1069]:
+                  - generic [ref=e1070]:
+                    - paragraph [ref=e1071]: "31"
+                    - paragraph [ref=e1072]: 5月
+                  - link "领 50h 算力券+进群抽显卡！立即加入AMD AI开发者中心 线上" [ref=e1074] [cursor=pointer]:
+                    - /url: https://marketing.csdn.net/questions/Q2604140858304426315
+                    - generic [ref=e1075]: 领 50h 算力券+进群抽显卡！立即加入AMD AI开发者中心
+                    - generic [ref=e1076]: 线上
+            - generic [ref=e1077]:
+              - generic [ref=e1078]:
+                - heading "精品课程" [level=3] [ref=e1080]
+                - link "更多 " [ref=e1081] [cursor=pointer]:
+                  - /url: https://edu.csdn.net?utm_source=learninngvip_sy_hyjx
+                  - text: 更多
+                  - generic [ref=e1082]: 
+              - generic [ref=e1083]:
+                - link "VIP Java之路 张中强 共 4.0 节 · 268.0万 人学习" [ref=e1085] [cursor=pointer]:
+                  - /url: https://edu.csdn.net/course/detail/772
+                  - generic [ref=e1086]:
+                    - paragraph [ref=e1087]: VIP
+                    - paragraph [ref=e1088]
+                  - generic [ref=e1089]:
+                    - paragraph [ref=e1090]: Java之路
+                    - paragraph [ref=e1091]: 张中强
+                    - paragraph [ref=e1092]: 共 4.0 节 · 268.0万 人学习
+                - link "VIP 韦东山嵌入式Linux第一期视频 韦东山 共 54.0 节 · 25.1万 人学习" [ref=e1094] [cursor=pointer]:
+                  - /url: https://edu.csdn.net/course/detail/207
+                  - generic [ref=e1095]:
+                    - paragraph [ref=e1096]: VIP
+                    - paragraph [ref=e1097]
+                  - generic [ref=e1098]:
+                    - paragraph [ref=e1099]: 韦东山嵌入式Linux第一期视频
+                    - paragraph [ref=e1100]: 韦东山
+                    - paragraph [ref=e1101]: 共 54.0 节 · 25.1万 人学习
+                - link "VIP 编程可以这样学 张杨（老张头） 共 40.0 节 · 23.1万 人学习" [ref=e1103] [cursor=pointer]:
+                  - /url: https://edu.csdn.net/course/detail/5247
+                  - generic [ref=e1104]:
+                    - paragraph [ref=e1105]: VIP
+                    - paragraph [ref=e1106]
+                  - generic [ref=e1107]:
+                    - paragraph [ref=e1108]: 编程可以这样学
+                    - paragraph [ref=e1109]: 张杨（老张头）
+                    - paragraph [ref=e1110]: 共 40.0 节 · 23.1万 人学习
+                - link "VIP Java入门教程初级 任亮 共 169.0 节 · 19.0万 人学习" [ref=e1112] [cursor=pointer]:
+                  - /url: https://edu.csdn.net/course/detail/2925
+                  - generic [ref=e1113]:
+                    - paragraph [ref=e1114]: VIP
+                    - paragraph [ref=e1115]
+                  - generic [ref=e1116]:
+                    - paragraph [ref=e1117]: Java入门教程初级
+                    - paragraph [ref=e1118]: 任亮
+                    - paragraph [ref=e1119]: 共 169.0 节 · 19.0万 人学习
+                - link "VIP Spring4 视频教程 佟刚 共 36.0 节 · 17.5万 人学习" [ref=e1121] [cursor=pointer]:
+                  - /url: https://edu.csdn.net/course/detail/852
+                  - generic [ref=e1122]:
+                    - paragraph [ref=e1123]: VIP
+                    - paragraph [ref=e1124]
+                  - generic [ref=e1125]:
+                    - paragraph [ref=e1126]: Spring4 视频教程
+                    - paragraph [ref=e1127]: 佟刚
+                    - paragraph [ref=e1128]: 共 36.0 节 · 17.5万 人学习
+                - link "VIP 8小时学会HTML网页开发 刘道成（燕十八） 共 57.0 节 · 17.1万 人学习" [ref=e1130] [cursor=pointer]:
+                  - /url: https://edu.csdn.net/course/detail/535
+                  - generic [ref=e1131]:
+                    - paragraph [ref=e1132]: VIP
+                    - paragraph [ref=e1133]
+                  - generic [ref=e1134]:
+                    - paragraph [ref=e1135]: 8小时学会HTML网页开发
+                    - paragraph [ref=e1136]: 刘道成（燕十八）
+                    - paragraph [ref=e1137]: 共 57.0 节 · 17.1万 人学习
+  - generic [ref=e1147]:
+    - iframe [ref=e1148]:
+      - generic [ref=f9e4]:
+        - generic [ref=f9e5]:
+          - text: 终于等到你～
+          - img [ref=f9e6]
+        - generic [ref=f9e7]:
+          - generic [ref=f9e8]:
+            - generic [ref=f9e9]: 登录可享更多权益
+            - generic [ref=f9e10]: 将博客内容转为可运行代码 提升学习效率
+          - generic [ref=f9e11]:
+            - generic [ref=f9e13]:
+              - generic [ref=f9e14] [cursor=pointer]: 微信登录
+              - generic [ref=f9e15] [cursor=pointer]: 验证码登录
+              - generic [ref=f9e16] [cursor=pointer]: APP登录
+            - generic [ref=f9e18]:
+              - generic [ref=f9e19]:
+                - img
+              - generic [ref=f9e20]: 打开微信扫一扫，快速登录/注册
+          - paragraph [ref=f9e23]: 其他登录方式
+    - img [ref=e1149]
