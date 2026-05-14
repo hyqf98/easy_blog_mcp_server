@@ -1,11 +1,11 @@
 {
   "name": "@hyqf98/mcp-blog-server",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "MCP Server for publishing blogs to CSDN, Juejin, Cnblog",
   "type": "module",
   "main": "./dist/index.js",
   "bin": {
-    "mcp_blog_server": "./dist/index.js"
+    "mcp-blog-server": "./dist/index.js"
   },
   "scripts": {
     "build": "tsup",
