@@ -1,0 +1,45 @@
+{
+  "name": "@hyqf98/mcp-blog-server",
+  "version": "1.0.0",
+  "description": "MCP Server for publishing blogs to CSDN, Juejin, Cnblog",
+  "type": "module",
+  "main": "./dist/index.js",
+  "bin": {
+    "mcp-blog-server": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "blog",
+    "csdn",
+    "juejin",
+    "cnblog"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "files": [
+    "dist"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "axios": "^1.7.0",
+    "cheerio": "^1.2.0",
+    "form-data": "^4.0.0",
+    "remark": "^15.0.1",
+    "remark-gfm": "^4.0.1",
+    "unist-util-visit": "^5.1.0",
+    "zod": "^3.23.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsup": "^8.0.0",
+    "typescript": "^5.4.0"
+  }
+}
