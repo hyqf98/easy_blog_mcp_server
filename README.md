@@ -1,4 +1,4 @@
-# MCP Blog Server
+# Easy Blog MCP Server
 
 基于 Model Context Protocol (MCP) 的博客发布工具，支持将 Markdown 文章发布到 CSDN、掘金、博客园等多个平台。自动上传本地图片并替换为远程 URL。
 
