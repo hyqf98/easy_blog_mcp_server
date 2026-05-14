@@ -5,7 +5,7 @@
   "type": "module",
   "main": "./dist/index.js",
   "bin": {
-    "mcp-blog-server": "./dist/index.js"
+    "mcp_blog_server": "./dist/index.js"
   },
   "scripts": {
     "build": "tsup",
