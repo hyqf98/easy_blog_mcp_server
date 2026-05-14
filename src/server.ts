@@ -150,7 +150,7 @@ export function createServer(): McpServer {
   initStrategies();
 
   const server = new McpServer({
-    name: 'mcp-blog-server',
+    name: 'easy-blog-mcp-server',
     version: '1.0.0',
   });
 
@@ -761,5 +761,5 @@ export async function startServer() {
   const server = createServer();
   const transport = new StdioServerTransport();
   await server.connect(transport);
-  console.error('MCP Blog Server started');
+  console.error('Easy Blog MCP Server started');
 }

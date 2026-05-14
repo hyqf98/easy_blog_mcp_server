@@ -115,7 +115,7 @@
   "mcpServers": {
     "blog": {
       "command": "npx",
-      "args": ["-y", "mcp-blog-server"],
+      "args": ["-y", "easy-blog-mcp-server"],
       "env": {
         "CSDN_COOKIE": "",
         "JUEJIN_COOKIE": "",
@@ -136,7 +136,7 @@ codex --mcp-config '{
   "mcpServers": {
     "blog": {
       "command": "npx",
-      "args": ["-y", "mcp-blog-server"],
+      "args": ["-y", "easy-blog-mcp-server"],
       "env": {
         "CSDN_COOKIE": "",
         "JUEJIN_COOKIE": "",
@@ -157,7 +157,7 @@ codex --mcp-config '{
   "mcpServers": {
     "blog": {
       "command": "npx",
-      "args": ["-y", "mcp-blog-server"],
+      "args": ["-y", "easy-blog-mcp-server"],
       "env": {
         "CSDN_COOKIE": "",
         "JUEJIN_COOKIE": "",
@@ -169,7 +169,7 @@ codex --mcp-config '{
 }
 ```
 
-> **提示**：如果本项目已发布到 npm，将 `npx` + `args` 替换为 `node /path/to/mcp-blog-server/dist/index.js` 即可使用本地版本。
+> **提示**：如果本项目已发布到 npm，将 `npx` + `args` 替换为 `node /path/to/easy-blog-mcp-server/dist/index.js` 即可使用本地版本。
 
 ## 使用示例
 
@@ -218,7 +218,7 @@ codex --mcp-config '{
     },
     "blog": {
       "command": "npx",
-      "args": ["-y", "mcp-blog-server"]
+      "args": ["-y", "easy-blog-mcp-server"]
     }
   }
 }
